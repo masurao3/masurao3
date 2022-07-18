@@ -1,4 +1,4 @@
-# I'm Masuraoro :rocket:
+# I'm Masurao:rocket:
 
 iOS Developer @ BizReach, Inc.
 
