@@ -1,9 +1,6 @@
 # I'm Masurao:rocket:
 
-iOS Developer @ BizReach, Inc.
-
-# 🎁 Publications
-ミッケ　(https://apps.apple.com/jp/app/id1561598379)
+iOS Developer @ ROLLCAKE.
 
 <!--
 **masurao3/masurao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
