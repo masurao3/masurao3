@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 Skills
+## 🔨 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=apple,androidstudio,figma,firebase" />
-<br>
 
-# 🌱 Status
+## 🌱 Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=masurao3&margin-w=0&theme=dracula&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
