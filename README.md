@@ -1,6 +1,6 @@
-# I'm Masurao:rocket:
+# I'm Masurao🚀
 
-iOS Developer @ ROLLCAKE.
+iOS Developer @ Pululu.
 
 <!--
 **masurao3/masurao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
